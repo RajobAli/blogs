@@ -1,0 +1,53 @@
+[
+    {
+      "ID": 101,
+      "Cover": "https://example.com/book1_cover.jpg",
+      "Title": "Secrets of the Enchanted Forest",
+      "Author": "Alice Smith",
+      "Author Image": "https://example.com/author1.jpg",
+      "Posted Date": "2023-09-14",
+      "Hashtags": ["Fantasy", "Adventure"],
+      "Reading Time": "4 hours"
+    },
+    {
+      "ID": 202,
+      "Cover": "https://example.com/book2_cover.jpg",
+      "Title": "Mystery at Midnight Manor",
+      "Author": "David Johnson",
+      "Author Image": "https://example.com/author2.jpg",
+      "Posted Date": "2023-09-13",
+      "Hashtags": ["Mystery", "Suspense"],
+      "Reading Time": "3.5 hours"
+    },
+    {
+      "ID": 303,
+      "Cover": "https://example.com/book3_cover.jpg",
+      "Title": "Love in Paris",
+      "Author": "Emma White",
+      "Author Image": "https://example.com/author3.jpg",
+      "Posted Date": "2023-09-12",
+      "Hashtags": ["Romance", "Travel"],
+      "Reading Time": "2.5 hours"
+    },
+    {
+      "ID": 404,
+      "Cover": "https://example.com/book4_cover.jpg",
+      "Title": "The Quantum Paradox",
+      "Author": "Robert Brown",
+      "Author Image": "https://example.com/author4.jpg",
+      "Posted Date": "2023-09-11",
+      "Hashtags": ["ScienceFiction", "Physics"],
+      "Reading Time": "6 hours"
+    },
+    {
+      "ID": 505,
+      "Cover": "https://example.com/book5_cover.jpg",
+      "Title": "The Art of Mindfulness",
+      "Author": "Sarah Miller",
+      "Author Image": "https://example.com/author5.jpg",
+      "Posted Date": "2023-09-10",
+      "Hashtags": ["NonFiction", "SelfHelp"],
+      "Reading Time": "2 hours"
+    }
+  ]
+  
