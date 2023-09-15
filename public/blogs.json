@@ -1,53 +1,112 @@
 [
     {
       "ID": 101,
-      "Cover": "https://example.com/book1_cover.jpg",
-      "Title": "Secrets of the Enchanted Forest",
-      "Author": "Alice Smith",
-      "Author Image": "https://example.com/author1.jpg",
-      "Posted Date": "2023-09-14",
+      "Cover": "https://i.ibb.co/Kbr8BFR/b25808d22356170545eb9eaae744d260.png",
+      "Title": "Python Programming",
+      "Details" :"Python is an interpeted ,object-oriented , high level programming language",
+  
+      "images": "../src/assets/images/1.jpg",
+      "Date": "2023-09-14",
       "Hashtags": ["Fantasy", "Adventure"],
-      "Reading Time": "4 hours"
+      "Time": "4",
+      "Price" : "300"
     },
     {
       "ID": 202,
-      "Cover": "https://example.com/book2_cover.jpg",
-      "Title": "Mystery at Midnight Manor",
-      "Author": "David Johnson",
-      "Author Image": "https://example.com/author2.jpg",
-      "Posted Date": "2023-09-13",
+      "Cover": "https://i.ibb.co/899rKZG/OIP.jpg",
+      "Title": "Java Programming",
+      "Details" :"Java is a widely used programming language for coding web application",
+
+      "images": "../src/assets/images/2.png",
+      "Date": "2023-09-13",
       "Hashtags": ["Mystery", "Suspense"],
-      "Reading Time": "3.5 hours"
+      "Time": "3.5",
+      "Price" : "200"
     },
     {
       "ID": 303,
-      "Cover": "https://example.com/book3_cover.jpg",
-      "Title": "Love in Paris",
-      "Author": "Emma White",
-      "Author Image": "https://example.com/author3.jpg",
-      "Posted Date": "2023-09-12",
+      "Cover": "https://i.ibb.co/P17rtjj/R.jpg",
+      "Title": "C Programming ",
+      "Details" :"C is an imperative procedural language, supporting structured programming",
+
+      "images": "../src/assets/images/3.png",
+      "Date": "2023-09-12",
       "Hashtags": ["Romance", "Travel"],
-      "Reading Time": "2.5 hours"
+      "Time": "2.5",
+      "Price" : "500"
     },
     {
       "ID": 404,
-      "Cover": "https://example.com/book4_cover.jpg",
-      "Title": "The Quantum Paradox",
-      "Author": "Robert Brown",
-      "Author Image": "https://example.com/author4.jpg",
-      "Posted Date": "2023-09-11",
+      "Cover": "https://i.ibb.co/3MbbH9V/download.jpg",
+      "Title": "Java Programming",
+      "Details" :"C programming is high lavel language",
+
+      "images": "../src/assets/images/4.jpg",
+      "Date": "2023-09-11",
       "Hashtags": ["ScienceFiction", "Physics"],
-      "Reading Time": "6 hours"
+      "Time": "6",
+      "Price" : "1100"
     },
     {
       "ID": 505,
-      "Cover": "https://example.com/book5_cover.jpg",
-      "Title": "The Art of Mindfulness",
-      "Author": "Sarah Miller",
-      "Author Image": "https://example.com/author5.jpg",
-      "Posted Date": "2023-09-10",
+      "Cover": "https://i.ibb.co/9hSZdCt/python-vs-java.png",
+      "Title": "Python Beginners",
+      "Details" :"C programming is high lavel language",
+
+      "images": "../src/assets/images/1.jpg",
+      "Date": "2023-09-10",
       "Hashtags": ["NonFiction", "SelfHelp"],
-      "Reading Time": "2 hours"
+      "Time": "2",
+      "Price" : "1000"
+    },
+    {
+      "ID": 506,
+      "Cover": "https://i.ibb.co/dB0pFdF/9781914038297.jpg",
+      "Title": "C Programmimg",
+      "Details" :"C is an imperative procedural language,",
+
+      "images": "../src/assets/images/1.jpg",
+      "Date": "2023-09-10",
+      "Hashtags": ["NonFiction", "SelfHelp"],
+      "Time": "2",
+      "Price" : "1100"
+    },
+    {
+      "ID": 507,
+      "Cover": "https://i.ibb.co/fHfc8ZJ/640-7.jpg",
+      "Title": "Web Development",
+      "Details" :"JavaScript is a scripting  language for creating dynamic web page content. ",
+
+      "images": "../src/assets/images/1.jpg",
+      "Date": "2023-09-10",
+      "Hashtags": ["NonFiction", "SelfHelp"],
+      "Time": "2",
+      "Price" : "100"
+    },
+    {
+      "ID": 508,
+      "Cover": "https://i.ibb.co/3MbbH9V/download.jpg",
+      "Title": "Programming Language",
+      "Details" :"There are many kinds of programming language",
+
+      "images": "../src/assets/images/1.jpg",
+      "Date": "2023-09-10",
+      "Hashtags": ["NonFiction", "SelfHelp"],
+      "Time": "2",
+      "Price" : "150"
+    },
+    {
+      "ID": 509,
+      "Cover": "https://i.ibb.co/9hSZdCt/python-vs-java.png",
+      "Title": "Java Programming ",
+      "Details" :"Java is a widely used programming language for coding web application",
+
+      "images": "../src/assets/images/1.jpg",
+      "Date": "2023-09-10",
+      "Hashtags": ["NonFiction", "SelfHelp"],
+      "Time": "2",
+      "Price" : "1200"
     }
+    
   ]
   

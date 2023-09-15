@@ -2,9 +2,9 @@
 
 const Header = () => {
     return (
-        <div>
-           <h1 className='text-4xl font-bold'>Knowledge</h1>
-        </div>
+        <header className='flex justify-between items-center p-4 mx-4'>
+           
+        </header>
     );
 };
 
